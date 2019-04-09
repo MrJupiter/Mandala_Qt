@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/brush.png</file>
+        <file>img/ensicaen.jpg</file>
+        <file>img/mandala.png</file>
+        <file>img/rgbColors.png</file>
+        <file>img/eraser.png</file>
+        <file>img/warning.png</file>
+        <file>img/save_image.png</file>
+        <file>img/open_new.png</file>
+        <file>img/create_new.png</file>
+        <file>img/quit.png</file>
+        <file>img/undo.png</file>
+        <file>img/redo.png</file>
+        <file>img/about.png</file>
+    </qresource>
+</RCC>
