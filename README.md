@@ -15,3 +15,5 @@ Please, check the header files in the folder "\Mandala-Ensicaen\include"
 # Demo
 
 <img src="./Mandala-Ensicaen/img/demo.png" width="856" >
+<br>
+<img src="./Mandala-Ensicaen/img/demo.gif" width="856" >
